@@ -1,0 +1,10 @@
+Task,Model,Precision,Recall,F1,Accuracy
+coarse,gemma2,67.2,65.42,64.85,65.42
+coarse,llama3.1,64.33,59.36,58.07,59.36
+coarse,mistral-nemo,64.39,62.0,61.28,62.0
+fine,gemma2,70.5,62.0,63.0,62.45
+fine,llama3.1,57.5,36.0,34.0,35.94
+fine,mistral-nemo,66.5,53.5,55.0,53.56
+multi-label,gemma2,55.48,52.23,52.35,8.58
+multi-label,llama3.1,52.12,42.38,43.95,6.88
+multi-label,mistral-nemo,57.51,49.62,51.05,8.58

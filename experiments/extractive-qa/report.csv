@@ -1,0 +1,10 @@
+Model,Dataset,Language,Task,Exact Match,F1
+llama3.1:8b-instruct-fp16,SQUAD1,en,extractive-qa,70.39,82.64
+llama3.1:8b-instruct-fp16,SQUAD2,en,extractive-qa,48.82,56.25
+llama3.1:8b-instruct-fp16,GermanQuAD,de,extractive-qa,48.91,73.04
+gemma2:9b-instruct-fp16,SQUAD1,en,extractive-qa,75.73,87.19
+gemma2:9b-instruct-fp16,SQUAD2,en,extractive-qa,63.85,69.8
+gemma2:9b-instruct-fp16,GermanQuAD,de,extractive-qa,60.01,81.25
+mistral-nemo:12b-instruct-2407-fp16,SQUAD1,en,extractive-qa,67.48,83.35
+mistral-nemo:12b-instruct-2407-fp16,SQUAD2,en,extractive-qa,50.81,60.64
+mistral-nemo:12b-instruct-2407-fp16,GermanQuAD,de,extractive-qa,47.34,73.18

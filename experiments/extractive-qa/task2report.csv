@@ -1,0 +1,13 @@
+Model,Dataset,Language,Task,Exact Match,F1
+gemma2,SQUAD1,en,extractive-qa,75.73,87.19
+llama3.1,SQUAD1,en,extractive-qa,70.39,82.64
+mistral-nemo,SQUAD1,en,extractive-qa,67.48,83.35
+gemma2,SQUAD2,en,extractive-qa,63.85,69.8
+llama3.1,SQUAD2,en,extractive-qa,48.82,56.25
+mistral-nemo,SQUAD2,en,extractive-qa,50.81,60.64
+gemma2,GermanQuAD,de,extractive-qa,60.01,81.25
+llama3.1,GermanQuAD,de,extractive-qa,48.91,73.04
+mistral-nemo,GermanQuAD,de,extractive-qa,47.34,73.18
+gemma2,MUC4,en,template-filling,36.69,36.7
+llama3.1,MUC4,en,template-filling,40.62,40.63
+mistral,MUC4,en,template-filling,23.86,23.87

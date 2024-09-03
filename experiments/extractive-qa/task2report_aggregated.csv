@@ -1,0 +1,7 @@
+Task,Model,Exact Match,F1
+extractive-qa,gemma2,66.53,79.41
+extractive-qa,llama3.1,56.04,70.64
+extractive-qa,mistral-nemo,55.21,72.39
+template-filling,gemma2,36.69,36.7
+template-filling,llama3.1,40.62,40.63
+template-filling,mistral,23.86,23.87

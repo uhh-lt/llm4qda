@@ -1,0 +1,10 @@
+Task,Model,Precision,Recall,F1,Accuracy
+ner-coarse,gemma2,35.19,44.07,37.98,85.02
+ner-coarse,llama3.1,26.22,4.7,7.82,80.33
+ner-coarse,mistral,39.28,15.38,21.22,81.76
+ner-fine,gemma2,40.25,31.64,31.84,83.86
+ner-fine,llama3.1,26.66,4.16,6.78,80.37
+ner-fine,mistral,39.72,10.66,15.39,81.04
+quotations,gemma2,36.4,25.61,29.81,90.29
+quotations,llama3.1,33.16,10.88,15.18,88.17
+quotations,mistral,23.03,10.69,13.71,86.24

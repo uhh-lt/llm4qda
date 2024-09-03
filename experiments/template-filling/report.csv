@@ -1,0 +1,4 @@
+Model,Dataset,Language,Task,Exact Match,F1
+gemma2:9b-instruct-fp16,MUC4,en,template-filling,36.69,36.7
+llama3.1:8b-instruct-fp16,MUC4,en,template-filling,40.62,40.63
+mistral-nemo:12b-instruct-2407-fp16,MUC4,en,template-filling,23.86,23.87

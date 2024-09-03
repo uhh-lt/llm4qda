@@ -1,0 +1,16 @@
+Model,Dataset,Language,Task,Precision,Recall,F1,Accuracy
+gemma2:9b-instruct-fp16,fewnerd,en,coarse,48.53,55.72,51.15,83.73
+llama3.1:8b-instruct-fp16,fewnerd,en,coarse,40.6,7.72,12.87,79.46
+mistral-nemo:12b-instruct-2407-fp16,fewnerd,en,coarse,49.95,18.97,26.32,81.12
+gemma2:9b-instruct-fp16,germanler,de,coarse,21.85,32.42,24.82,86.32
+llama3.1:8b-instruct-fp16,germanler,de,coarse,11.84,1.67,2.78,81.21
+mistral-nemo:12b-instruct-2407-fp16,germanler,de,coarse,28.6,11.79,16.11,82.41
+gemma2:9b-instruct-fp16,fewnerd,en,fine,47.92,40.78,42.31,83.23
+llama3.1:8b-instruct-fp16,fewnerd,en,fine,38.97,6.53,10.54,79.2
+mistral-nemo:12b-instruct-2407-fp16,fewnerd,en,fine,39.53,12.68,17.64,79.86
+gemma2:9b-instruct-fp16,germanler,de,fine,32.58,22.49,21.37,84.48
+llama3.1:8b-instruct-fp16,germanler,de,fine,14.36,1.78,3.02,81.54
+mistral-nemo:12b-instruct-2407-fp16,germanler,de,fine,39.91,8.64,13.13,82.22
+gemma2:9b-instruct-fp16,quotations,de,coarse,36.4,25.61,29.81,90.29
+llama3.1:8b-instruct-fp16,quotations,de,coarse,33.16,10.88,15.18,88.17
+mistral-nemo:12b-instruct-2407-fp16,quotations,de,coarse,23.03,10.69,13.71,86.24
